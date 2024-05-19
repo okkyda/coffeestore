@@ -35,7 +35,7 @@ class RegisterPage extends StatelessWidget {
       builder: (BuildContext context) {
         return AlertDialog(
           title: Text("Registrasi berhasil"),
-          content: Text("Selamat datang, enjoyyy"),
+          content: Text("Selamat datang!"),
           actions: <Widget>[
             TextButton(
               onPressed: () {
